@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+SteamWorld Dig is back! Dig deep, gain riches and unearth the terrors of the underworld in this platform mining adventure influenced by classic Metroidvania style games.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | 10.7 (Lion) |
+| **Processor** | Min: 2 GHz, SSE2 support / Rec: 2 GHz dual-core | 2 GHz |
+| **Memory** | 1024 MB RAM | 1024 MB RAM |
+| **Graphics** | Min: OpenGL 2.1-compatible, 512 MB video memory, framebuffer… / Rec: Geforce GTX 660 / Radeon 7870 or better. | OpenGL 2.1-compatible, 512 MB video memory, framebuffer… |
+| **Storage** | 350 MB available space | 350 MB available space |
+| **OS *** | Windows 7 | Windows 7 |
+| **Additional Notes** | You may need to update your graphics drivers for OpenGL… | You may need to update your graphics drivers for OpenGL… |
 
 ---
 
